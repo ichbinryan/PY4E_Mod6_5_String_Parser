@@ -1,4 +1,6 @@
-# starter code
-str = 'X-DSPAM-Confidence:0.8475'
+def string_parser():
+    str = 'X-DSPAM-Confidence:0.8475'
 
-# PRINT your desired output, careful to match the desired output in the assignment
+
+if __name__ == "__main__":
+    string_parser()
